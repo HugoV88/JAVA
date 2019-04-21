@@ -1,0 +1,3 @@
+returns.PalabraReturnObject
+returns.Suma
+returns.PalabraReturn
